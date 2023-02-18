@@ -54,6 +54,7 @@ if __name__ == '__main__':
 
     print("\n Bigrams along with their probability ")
     print(bigramProb)
+    
     inputList="This is my cat"
     splt=inputList.split()
     outputProb1 = 1
