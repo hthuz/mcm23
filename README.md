@@ -17,7 +17,8 @@ the wrong location, but it is exactly in the word. A gray letter represents that
 the word at all. Players also have chances to play this game in a “Hard Mode”, which requires 
 players to mandatorily use green and yellow letters from previous tries in subsequent tries.
 
-For the detailed problem description please refer to <a href= 'https://zhuanlan.zhihu.com/p/615471028' title = 'Description in Zhihu'>.
+For the detailed problem description please refer to:
+<a href= 'https://zhuanlan.zhihu.com/p/615471028' title = 'Description in Zhihu'>.
 
 Here is a sample "Wordle" game:
 
