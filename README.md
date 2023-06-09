@@ -2,10 +2,6 @@
 
 Part of code for Mathematical contest in modeling 2023 problem C.
 
-The final designation is Successful Participant.
-
-<img src="./img/Status.png" width="400px">
-
 ## Problem C Background
 
 Wordle is an online popular word-puzzle game provided daily by The New York Times.
